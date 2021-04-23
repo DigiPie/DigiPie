@@ -9,6 +9,9 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
- 📗 [Top 3 reasons why you should start investing with StashAway today!](https://evantay.com/blog/stashaway)
- 📙 [GitHub Action for Docusaurus](https://evantay.com/blog/docusaurus-gh-action)
- 📕 [History of EvanTay.com](https://evantay.com/blog/history)<!-- BLOG-POST-LIST:END -->
+ 📗 [Top 3 reasons why you should start investing with StashAway today!](https://evantay.com/blog/stashaway)  
+
+ 📙 [GitHub Action for Docusaurus](https://evantay.com/blog/docusaurus-gh-action)  
+
+ 📕 [History of EvanTay.com](https://evantay.com/blog/history)  
+<!-- BLOG-POST-LIST:END -->
