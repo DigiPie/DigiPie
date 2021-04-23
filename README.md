@@ -8,4 +8,8 @@
 
 ### Latest blog posts
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Top 3 reasons why you should start investing with StashAway today!](https://digipie.github.io/blog/stashaway)
+- [GitHub Action for Docusaurus](https://digipie.github.io/blog/docusaurus-gh-action)
+- [History of EvanTay.com](https://digipie.github.io/blog/history)
+<!-- BLOG-POST-LIST:END -->
