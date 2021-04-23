@@ -1,4 +1,4 @@
-### Hi there!
+### Hey there :wave:
 
 :singapore: I am Evan, a Full Stack Software Engineer and Certified Cloud Engineer based in Singapore.
 
@@ -6,7 +6,7 @@
 
 🤔 Want to find out more about me? Check out my website at [evantay.com](https://evantay.com/).
 
-### Latest blog posts
+### Latest blog posts :pencil2:
 
 <!-- BLOG-POST-LIST:START -->
  📗 [Top 3 reasons why you should start investing with StashAway today!](https://evantay.com/blog/stashaway)  
