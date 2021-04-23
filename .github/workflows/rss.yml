@@ -11,4 +11,4 @@ jobs:
         with:
           feed_list: "https://evantay.com/blog/rss.xml"
           max_post_count: 3
-          template: "$newline $emojiKey(📗,📙,📕) [$title]($url)"
+          template: "$newline $emojiKey(📗,📙,📕) [$title]($url)  "
