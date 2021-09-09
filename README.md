@@ -9,9 +9,9 @@
 ### Latest blog posts :pencil2:
 
 <!-- BLOG-POST-LIST:START -->
- 📗 [Integrating PostHog product analytics with Docusaurus v2 on GitHub Pages](https://evantay.com/blog/docusaurus-posthog)  
+ 📗 [Why every Software Engineer should read Designing Data-Intensive Applications](https://evantay.com/blog/why-you-should-read-ddia)  
 
- 📙 [Top 3 reasons why you should start investing with StashAway today!](https://evantay.com/blog/stashaway)  
+ 📙 [Integrating PostHog product analytics with Docusaurus v2 on GitHub Pages](https://evantay.com/blog/docusaurus-posthog)  
 
- 📕 [GitHub Action for Docusaurus](https://evantay.com/blog/docusaurus-gh-action)  
+ 📕 [Top 3 reasons why you should start investing with StashAway today!](https://evantay.com/blog/stashaway)  
 <!-- BLOG-POST-LIST:END -->
